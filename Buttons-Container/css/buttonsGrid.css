@@ -1,0 +1,13 @@
+#btns{
+  width:75vw;
+  display: grid;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: auto auto auto;
+
+}
+
+.btn{
+  width: 30%;
+  height: 48px;
+  font-size: 24px;
+}
